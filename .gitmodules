@@ -1,0 +1,6 @@
+[submodule "CSSIllustrations"]
+	path = CSSIllustrations
+	url = https://github.com/cetzz/CSSIllustrations.git
+[submodule "SpaceJS"]
+	path = SpaceJS
+	url = https://github.com/cetzz/SpaceJS.git
