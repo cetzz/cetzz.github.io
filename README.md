@@ -14,7 +14,7 @@
     Play Tic Tac Toe with an twist that makes it 1000% more interesting.<br>
     'Tic tac toe with a twist' is a videogame made in js, jQuery, and CSS. It's fully responsive and it has cellphone
     support.<br>
-    Right now it's in a <b style='color:red; font-weight:bold;'>WIP</b> state, but the idea is to make it an online game eventually.<br><br> </p>
+    Right now it's in a <b style='color:red; font-weight:bold;'>WIP</b> state, and it has known bugs, but the idea is to make it an online game eventually.<br><br> </p>
 <h3>CSS drawings, animations and design</h3>
 <p>
     <a href='/CSSIllustrations/minecraftbee.html'>Minecraft Bee</a><br>
