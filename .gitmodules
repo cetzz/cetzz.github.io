@@ -7,3 +7,6 @@
 [submodule "tictactoe"]
 	path = tictactoe
 	url = https://github.com/cetzz/tictactoe.git
+[submodule "SWAPICLONE_Front"]
+	path = SWAPICLONE_Front
+	url = https://github.com/cetzz/SWAPICLONE_Front.git
