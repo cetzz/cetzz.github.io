@@ -25,7 +25,9 @@
                    <p>
                     <a href='/CSSIllustrations/minecraftbee.html'>SWAPI Clone</a><br>
                     Search for starship and vehicles from the popular franchise Star Wars!<br><br>
-                    SWAPI Clone is a project divided in two parts. <br>The front-end is nothing special, as it was made to showcase the API, but it has some nice and intuitive UX design. Check the documentation <a href='https://github.com/cetzz/SWAPICLONE_Front'>here</a>.<br>The API is pretty cool though, read the documentation for the Rest API <a href='https://github.com/cetzz/test_LN'>here</a>! <br><br>
+                    SWAPI Clone is a project divided in two parts. 
+<br>The front-end is nothing special, as it was made to showcase the API, but it has some nice and intuitive UX design. Read the documentation <a href='https://github.com/cetzz/SWAPICLONE_Front'>here</a>.
+<br>The API is pretty cool though, read the documentation for the Rest API <a href='https://github.com/cetzz/test_LN'>here</a>! <br><br>
                     The front-end part uses js, jQuery and css .<br>
                     The Rest API uses PHP 7.3 with the framework Slim 3. This part uses a relational database, so a XAMP server is required for it to work. 
                    </p>
