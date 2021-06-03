@@ -19,7 +19,7 @@
 <p>
     <a href='/CSSIllustrations/minecraftbee.html'>Minecraft Bee</a><br>
     The bee will follow your mouse (or finger if in mobile) while it flies!<br>
-    Minecraft Bee is a proyect made in js and CSS. It's fully responsive and it has cellphone support.<br><br>
+    Minecraft Bee is a proyect made in js, CSS and Bootstrap. It's fully responsive and it has cellphone support.<br><br>
     <a href='/CSSIllustrations/finn.html'>Finn the Human</a><br>
     Finn the human is a character from Adventure time.<br>
     This is a minimalist drawing of Finn the Human. It was made in Bootstrap and CSS. It wasn't made to be responsive,
