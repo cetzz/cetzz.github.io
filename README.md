@@ -20,7 +20,7 @@
                     <a href='/CSSIllustrations/finn.html'>Finn the Human</a><br>
                     Finn the human is a character from Adventure time.<br>
                     This is a minimalist drawing of Finn the Human. It was made in Bootstrap and CSS. It wasn't made to be responsive, so it fails sometimes. Most of the times it  is okay.<br><br> 
-                   </p>
+                   </p><p>
                 <h3>Projects that need a server</h3>
                    <p>
                     <a href='/SWAPICLONE_Front/'>SWAPI Clone</a><br>
@@ -34,3 +34,4 @@
                 <h2>Check out my LinkedIn profile!</h2>
                     <p>
                      <a href='https://ar.linkedin.com/in/cristian-metz'>Cristian Metz</a></p>
+</p>
