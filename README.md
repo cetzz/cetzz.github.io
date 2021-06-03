@@ -7,7 +7,7 @@
 <h2>Proyects</h2>
 <br><br>
                 <a href='/SpaceJS/SpaceJS.html'>Space JS</a><br>
-                <a href='/tictactoe/index.php'>Tic tac toe with a twist</a><br>
+                <a href='/tictactoe/tictactoe.html'>Tic tac toe with a twist</a><br>
                 <a href='/CSSIllustrations/minecraftbee.html'>Minecraft Bee</a><br>
                 <a href='/CSSIllustrations/finn.html'>Finn the Human</a><br>
                 <br>
