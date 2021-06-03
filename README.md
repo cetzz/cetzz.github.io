@@ -21,7 +21,7 @@
     The bee will follow your mouse (or finger if in mobile) while it flies!<br>
     Minecraft Bee is a proyect made in js, CSS and Bootstrap. It's fully responsive and it has cellphone support.<br><br>
     <a href='/CSSIllustrations/finn.html'>Finn the Human</a><br>
-    Finn the human is a character from Adventure time.<br>
+    Finn the Human is a character from Adventure time.<br>
     This is a minimalist drawing of Finn the Human. It was made in Bootstrap and CSS. It wasn't made to be responsive,
     so it fails sometimes. Most of the times it is okay.<br><br>
 </p>
