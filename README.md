@@ -27,7 +27,7 @@
 </p>
 <h3>Projects that need a server</h3>
 <p>
-GitHub sites does NOT provide a XAMP server, so these proyects cannot be seen here. You need to install them to check them out, feel free to do so!<br><br>
+    GitHub sites does <b style='color:red; font-weight:bold;'>NOT</b> provide a XAMP server, so these proyects <b style='color:red; font-weight:bold;'>cannot</b> be seen here. You need to install them to check them out, feel free to do so!<br><br>
     <b style='font-weight:bold'>SWAPI Clone</b><br>
     Search for starship and vehicles from the popular franchise Star Wars!<br><br>
     SWAPI Clone is a project divided in two parts.
