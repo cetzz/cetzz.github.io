@@ -40,5 +40,5 @@
 </p>
 <h2>Check out my LinkedIn profile!</h2>
 <p>
-    <a href='https://ar.linkedin.com/in/cristian-metz'>Cristian Metz</a></p>
+    <a href='https://ar.linkedin.com/in/cristian-metz'>Cristian Metz</a>
 </p>
