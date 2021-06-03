@@ -7,6 +7,7 @@
     <div class='row'>
         <div class='col-md-6'>
             <b><a href='/SpaceJS/SpaceJS.html'>Space JS</a><br>
+                <a href='/tictactoe/index.php'>Tic tac toe with a twist</a><br></b>
                 <a href='/CSSIllustrations/minecraftbee.html'>Minecraft Bee</a><br>
                 <a href='/CSSIllustrations/finn.html'>Finn the Human</a><br></b>
         </div>
