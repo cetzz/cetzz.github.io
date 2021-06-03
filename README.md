@@ -4,14 +4,13 @@
     integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous">
 </script>
 
-<h1>Proyects</h1>
+<h2>Proyects</h2>
 <br><br>
                 <a href='/SpaceJS/SpaceJS.html'>Space JS</a><br>
                 <a href='/tictactoe/index.php'>Tic tac toe with a twist</a><br>
                 <a href='/CSSIllustrations/minecraftbee.html'>Minecraft Bee</a><br>
                 <a href='/CSSIllustrations/finn.html'>Finn the Human</a><br>
-                
                 <br>
-<h1>Check out my LinkedIn profile!</h1>
+<h2>Check out my LinkedIn profile!</h2>
 <br><br>
                 <a href='https://ar.linkedin.com/in/cristian-metz'>Cristian Metz</a>
