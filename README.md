@@ -5,12 +5,13 @@
 </script>
 
 <h2>Proyects</h2>
-<br><br>
+
+<h3>Games</h3>
                 <a href='/SpaceJS/SpaceJS.html'>Space JS</a><br>
                 <a href='/tictactoe/tictactoe.html'>Tic tac toe with a twist</a><br>
+<h3>CSS drawings, animations and design</h3>
                 <a href='/CSSIllustrations/minecraftbee.html'>Minecraft Bee</a><br>
                 <a href='/CSSIllustrations/finn.html'>Finn the Human</a><br>
                 <br>
 <h2>Check out my LinkedIn profile!</h2>
-<br><br>
                 <a href='https://ar.linkedin.com/in/cristian-metz'>Cristian Metz</a>
