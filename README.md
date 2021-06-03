@@ -27,7 +27,7 @@
 </p>
 <h3>Projects that need a server</h3>
 <p>
-    <b>SWAPI Clone</b><br>
+    <b style='font-weight:bold'>SWAPI Clone</b><br>
     Search for starship and vehicles from the popular franchise Star Wars!<br><br>
     SWAPI Clone is a project divided in two parts.
     <br>The front-end is nothing special, as it was made to showcase the API, but it has some nice and intuitive UX
