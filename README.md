@@ -32,7 +32,7 @@ GitHub sites does NOT provide a XAMP server, so these proyects cannot be seen he
     Search for starship and vehicles from the popular franchise Star Wars!<br><br>
     SWAPI Clone is a project divided in two parts.
     <br>The front-end is nothing special, as it was made to showcase the API, but it has some nice and intuitive UX
-    design. Read the documentation <a href='https://github.com/cetzz/SWAPICLONE_Front'>here</a>.
+    design, and it's fully responsive as well. Read the documentation <a href='https://github.com/cetzz/SWAPICLONE_Front'>here</a>.
     <br>The API is pretty cool though, read the documentation for the Rest API <a
         href='https://github.com/cetzz/test_LN'>here</a>! <br><br>
     The front-end part uses a little bit of PHP, js, jQuery and css .<br>
