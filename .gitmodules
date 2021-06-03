@@ -4,3 +4,6 @@
 [submodule "SpaceJS"]
 	path = SpaceJS
 	url = https://github.com/cetzz/SpaceJS.git
+[submodule "tictactoe"]
+	path = tictactoe
+	url = https://github.com/cetzz/tictactoe.git
