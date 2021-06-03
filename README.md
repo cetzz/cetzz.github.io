@@ -27,6 +27,7 @@
 </p>
 <h3>Projects that need a server</h3>
 <p>
+GitHub sites does NOT provide a XAMP server, so these proyects cannot be seen here. You need to install them to check them out, feel free to do so!<br><br>
     <b style='font-weight:bold'>SWAPI Clone</b><br>
     Search for starship and vehicles from the popular franchise Star Wars!<br><br>
     SWAPI Clone is a project divided in two parts.
@@ -34,7 +35,7 @@
     design. Read the documentation <a href='https://github.com/cetzz/SWAPICLONE_Front'>here</a>.
     <br>The API is pretty cool though, read the documentation for the Rest API <a
         href='https://github.com/cetzz/test_LN'>here</a>! <br><br>
-    The front-end part uses js, jQuery and css .<br>
+    The front-end part uses a little bit of PHP, js, jQuery and css .<br>
     The Rest API uses PHP 7.3 with the framework Slim 3. This part uses a relational database, so a XAMP server is
     required for it to work.
 </p>
