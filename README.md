@@ -9,9 +9,9 @@
 <h3>Games</h3>
                 <a href='/SpaceJS/SpaceJS.html'>Space JS</a><br>
                 <a href='/tictactoe/tictactoe.html'>Tic tac toe with a twist</a><br>
-<h3>CSS drawings, animations and design</h3>
+<h3>CSS drawings, animations and design</h3><p>
                 <a href='/CSSIllustrations/minecraftbee.html'>Minecraft Bee</a><br>
                 <a href='/CSSIllustrations/finn.html'>Finn the Human</a><br>
-                <br>
-<h2>Check out my LinkedIn profile!</h2>
-                <a href='https://ar.linkedin.com/in/cristian-metz'>Cristian Metz</a>
+                <br></p>
+<h2>Check out my LinkedIn profile!</h2><p>
+                <a href='https://ar.linkedin.com/in/cristian-metz'>Cristian Metz</a></p>
